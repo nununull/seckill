@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [29/Apr/2017:00:36:29 +0800] "GET / HTTP/1.1" 200 1578 http-bio-8080-exec-1 206
+0:0:0:0:0:0:0:1 - - [29/Apr/2017:00:37:54 +0800] "GET /seckill/list HTTP/1.1" 200 5534 http-bio-8080-exec-8 4070
+0:0:0:0:0:0:0:1 - - [29/Apr/2017:00:39:35 +0800] "GET /seckill/1000/details HTTP/1.1" 200 3150 http-bio-8080-exec-3 63
+0:0:0:0:0:0:0:1 - - [29/Apr/2017:00:39:35 +0800] "GET /resources/script/seckill.js HTTP/1.1" 200 5398 http-bio-8080-exec-4 12
+0:0:0:0:0:0:0:1 - - [29/Apr/2017:00:39:36 +0800] "GET /static/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 18028 http-bio-8080-exec-7 209
+0:0:0:0:0:0:0:1 - - [29/Apr/2017:00:39:59 +0800] "GET /seckill/1005/details HTTP/1.1" 200 3150 http-bio-8080-exec-2 13
+0:0:0:0:0:0:0:1 - - [29/Apr/2017:00:40:17 +0800] "GET /seckill/1000/details HTTP/1.1" 200 3150 http-bio-8080-exec-2 8
